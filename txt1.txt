@@ -1,0 +1,21 @@
+sudo apt -get install git-all
+username
+user email
+mkdir (type foldername you want to create)
+cd foldername(git_training)
+git init
+echo hello > file.txt
+echo hello > file2.txt
+git status
+git add .
+git status
+echo world >> file.txt
+git status
+git add file.txt
+git status
+git commit
+
+
+git remote add origin https://github.com/krituraj/git traiinhg
+git push -u origin master
+
