@@ -15,7 +15,6 @@ git add file.txt
 git status
 git commit
 
-
 git remote add origin https://github.com/krituraj/git traiinhg
 git push -u origin master
 
